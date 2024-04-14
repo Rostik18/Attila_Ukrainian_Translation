@@ -16,7 +16,7 @@ battle_weather_types (4/4)
 battlefield_buildings_names (19/19)
 
 battlefield_siege_vehicles (22/22)
-battles
+battles (32/32)
 building_chains
 
 building_culture_variants
