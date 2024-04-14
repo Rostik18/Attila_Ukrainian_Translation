@@ -1,10 +1,26 @@
 translated:
 abilities (18/18)
 achievements (200/400)
+
 agent_actions (96/96)
 agent_culture_details (52/52)
 agent_localisations (76/76)
 agent_string_faction_overrides (204/204)
 agent_string_subculture_overrides (24/24)
+
+aide_de_camp_speeches (66/66)
+
+battle_types (16/16)
+battle_weather_types (4/4)
+
+battlefield_buildings_names (19/19)
+
+battlefield_siege_vehicles (22/22)
+battles
+building_chains
+
+building_culture_variants
+
 campaigns (8/8)
+
 uied_component_texts (3108/3108)
