@@ -1,5 +1,10 @@
 translated:
-abilities
+abilities (18/18)
 achievements (200/400)
-campaigns
+agent_actions (96/96)
+agent_culture_details (52/52)
+agent_localisations (76/76)
+agent_string_faction_overrides (204/204)
+agent_string_subculture_overrides (24/24)
+campaigns (8/8)
 uied_component_texts (3108/3108)
