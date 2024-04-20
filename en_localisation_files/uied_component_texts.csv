@@ -2998,7 +2998,7 @@
 "uied_component_texts_localised_string_tx_unit-type_NewState_Text_7c000ex"	"Карфагенський гопліт"	"True"
 "uied_component_texts_localised_string_tx_units_lost_NewState_Text_40007\^"	"Втрачено загонів"	"True"
 "uied_component_texts_localised_string_tx_units_recruited_NewState_Text_57006d"	"Набрано загонів (всього/кавалерія/піхота/облогові)"	"True"
-"uied_component_texts_localised_string_tx_upkeep_NewState_Text_b005e"	"Вартість обслуговування за хід:"	"True"
+"uied_component_texts_localised_string_tx_upkeep_NewState_Text_b005e"	"Утримання за хід:"	"True"
 "uied_component_texts_localised_string_tx_upkeep_army_NewState_Text_500069"	"Утримання армії"	"True"
 "uied_component_texts_localised_string_tx_upkeep_army_Tooltip_3a0065k"	"Сума грошей за хід для утримання ваших армій.||Щоб зменшити цю цифру, розформовуйте загони. Армії складаються з загонів. Кожен загін має вартість утримання, вказану на панелі деталей. Загони, які простоюють, просто витрачають гроші. Розформуйте їх або перемістіть, куди вони потрібні."	"True"
 "uied_component_texts_localised_string_tx_upkeep_army_Tooltip_3a0065kr"	"Сума грошей за хід для утримання ваших армій.||Щоб зменшити цю цифру, розформовуйте загони. Армії складаються з загонів. Кожен загін має вартість утримання, вказану на панелі деталей.||Загони, які простоюють, просто витрачають гроші. Розформуйте їх або перемістіть, куди вони потрібні."	"True"
