@@ -25,5 +25,9 @@ campaigns (8/8)
 
 uied_component_texts (3108/3108)
 
+unit_traits (27/27)
+unit_weights (6/6)
+
+victory_types (38/38)
 vo_fmv_texts (27/27)
 wind_levels (5/5)
