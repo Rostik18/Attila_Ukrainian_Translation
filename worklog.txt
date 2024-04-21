@@ -25,6 +25,8 @@ campaigns (8/8)
 
 uied_component_texts (3108/3108)
 
+unit_description_strengths_weaknesses_texts (71/71)
+
 unit_traits (27/27)
 unit_weights (6/6)
 
