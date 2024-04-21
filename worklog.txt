@@ -25,5 +25,5 @@ campaigns (8/8)
 
 uied_component_texts (3108/3108)
 
-vo_fmv_texts
-wind_levels
+vo_fmv_texts (27/27)
+wind_levels (5/5)
