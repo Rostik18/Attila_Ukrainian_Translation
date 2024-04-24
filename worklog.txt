@@ -24,6 +24,11 @@ building_culture_variants (1538/1538)
 campaigns (8/8)
 
 uied_component_texts (3108/3108)
+unit_abilities (152/152)
+unit_attributes (33/33)
+unit_castes (10/10)
+unit_category (8/8)
+unit_class (40/40)
 
 unit_description_strengths_weaknesses_texts (71/71)
 
