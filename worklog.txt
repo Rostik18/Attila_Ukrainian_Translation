@@ -23,6 +23,10 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+technologies (800/2397) (800-1600)
+
+trade_details (2/2)
+
 ui_unit_bullet_point_enums (22/22)
 ui_unit_groupings (110/110)
 ui_unit_stats (80/80)
