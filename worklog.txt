@@ -23,9 +23,10 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+start_pos_factions 
 start_pos_regions
 start_pos_settlements (633/633)
-
+subtitles (0/358)
 technologies (800/2397) (800-1600)
 
 trade_details (2/2)
