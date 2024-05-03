@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+special_ability_phases (174/174)
+stances (8/8)
 start_pos_characters (28/28)
 start_pos_factions (618/618)
 start_pos_regions
