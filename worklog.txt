@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+shortcut_localisation (342/342)
+slots_gdp_values (103/103)
 special_ability_groups (14/14)
 special_ability_phases (174/174)
 stances (8/8)
