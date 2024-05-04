@@ -23,6 +23,10 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+scripted_subtitles (71/71)
+seasons (5/5)
+settlement_occupation_options (11/11)
+
 shortcut_localisation (342/342)
 slots_gdp_values (103/103)
 special_ability_groups (14/14)
