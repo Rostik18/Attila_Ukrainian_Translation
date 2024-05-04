@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+
+scripted_objectives (64/64)
 scripted_subtitles (71/71)
 seasons (5/5)
 settlement_occupation_options (11/11)
