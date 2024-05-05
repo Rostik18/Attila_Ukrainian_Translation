@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+projectile_shot_type_enum (14/14)
+prologue_chapters (6/6)
+
 provinces (149/149)
 provincial_initiative_records (34/34)
 
