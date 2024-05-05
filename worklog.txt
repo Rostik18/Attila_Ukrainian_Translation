@@ -23,6 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+provinces (149/149)
 provincial_initiative_records (34/34)
 
 quotes (0/342)
