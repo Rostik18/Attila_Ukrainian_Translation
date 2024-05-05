@@ -23,6 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+region_unit_resources (40/40)
 regions (1038/1038)
 
 religions (19/19)
