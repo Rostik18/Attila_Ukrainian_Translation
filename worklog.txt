@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+political_parties (165/332) (167-332)
+population_classes (3/3)
+
 projectile_shot_type_enum (14/14)
 prologue_chapters (6/6)
 
