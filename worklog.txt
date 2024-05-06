@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+naval_units (123/123)
+
+political_actions (28/28)
 political_parties (165/332) (167-332)
 population_classes (3/3)
 
