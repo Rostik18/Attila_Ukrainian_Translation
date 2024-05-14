@@ -23,6 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+ministerial_positions_strings (61/61)
 mission_text (1976/1976)
 missions (1214/1214)
 movie_event_strings (21/21)
