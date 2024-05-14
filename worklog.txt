@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+missions (1214/1214)
+movie_event_strings (21/21)
+
 names (5809/5809)
 naval_units (123/123)
 
