@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+loading_screen_diagrams (3/3)
+loyalty_factors (58/58)
+message_event_strings (5/5)
 message_event_text (10/10)
 military_force_legacy_names (715/715)
 
