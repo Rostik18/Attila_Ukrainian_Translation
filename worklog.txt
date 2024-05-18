@@ -23,6 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+incidents (1218/1218)
 land_units (1117/1117)
 loading_screen_diagrams (3/3)
 loyalty_factors (58/58)
