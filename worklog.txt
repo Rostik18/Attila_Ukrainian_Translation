@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+famous_battle_pools (13/13)
+fertility_levels (34/34)
 formations (69/69)
 
 ground_types (4/4)
