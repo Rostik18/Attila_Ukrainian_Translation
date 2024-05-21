@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+event_feed_strings (503/503)
+event_feed_subcategories (37/37)
 event_feed_summary_events (48/48)
 event_feed_targeted_events (185/185)
 
