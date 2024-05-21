@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+event_feed_summary_events (48/48)
+event_feed_targeted_events (185/185)
+
 faction_groups (18/18)
 factions (2703/2703)
 famous_battle_pools (13/13)
