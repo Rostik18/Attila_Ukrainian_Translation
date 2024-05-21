@@ -22,7 +22,7 @@
 "event_feed_summary_events_title_diplomacy_faction_destroyed"	"Фракції знищено"	"True"
 "event_feed_summary_events_title_diplomacy_faction_emerges"	"Фракції з'явилися"	"True"
 "event_feed_summary_events_title_diplomacy_faction_encountered"	"Зустрічі з фракціями"	"True"
-"event_feed_summary_events_title_diplomacy_trespassing"	"Порушення"	"True"
+"event_feed_summary_events_title_diplomacy_trespassing"	"Порушення кордону"	"True"
 "event_feed_summary_events_title_faction_civil_war_character"	"Громадянська війна: дезертирство"	"True"
 "event_feed_summary_events_title_faction_civil_war_force"	"Громадянська війна: заколот"	"True"
 "event_feed_summary_events_title_faction_civil_war_province"	"Громадянська війна: повстання"	"True"
