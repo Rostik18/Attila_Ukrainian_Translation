@@ -67,7 +67,7 @@ provincial_initiative_records (34/34)
 
 quotes (0/342)
 quotes_people (0/122)
-random_localisation_strings (0/1483)
+random_localisation_strings (1483/1483)
 region_economics_factors (22/22)
 region_groups (71/71)
 region_unit_resources (40/40)
