@@ -23,6 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+diplomacy_strings (2567/2567)
 effect_bundles (2014/2014)
 effects (1268/1268)
 
