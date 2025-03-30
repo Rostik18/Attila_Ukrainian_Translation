@@ -23,6 +23,8 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+cultures (4/4)
+cultures_subcultures (14/14)
 deployables (18/18)
 dilemmas (362/362)
 diplomacy_strings (2567/2567)
