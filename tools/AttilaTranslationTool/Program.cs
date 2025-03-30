@@ -1,4 +1,4 @@
-﻿var basePath = "C:\\Users\\rosti\\OneDrive\\Рабочий стол\\Attila_Ukrainian_Translation\\tools\\AttilaTranslationTool\\";
+﻿var basePath = "C:\\Users\\MSI VECTOR\\Desktop\\Attila_Ukrainian_Translation\\tools\\AttilaTranslationTool\\";
 
 var initLines = File.ReadAllLines(basePath + "eng_input.txt");
 
