@@ -1,362 +1,913 @@
-Husband, what a fuss there was yesterday! However, I’m sure you just needed some time to calm down before you could clearly see the truth. I don’t want your apologies, but you will feel very silly once you hear what actually happened.\n\nTheo and I were burying treasure in the basement! You worked so hard in Carthage winning all that plunder and now Justinian just expects you to hand it over when all he did was sit on his throne looking pompous. I was hiding a few nice bits and pieces from the taxmen so you can keep the reward you really deserve. It was only afterwards that we realised how compromising it all looked! How silly! Anyway, once you’ve calmed down I’ll send you the money and we can forget all about it.
-My husband, I hear you have been campaigning awfully hard against those Vandals so I thought I would cheer you up. Anyway, I remembered how much you love charity and I got you a special surprise: a new son! You remember your poor orphan godson, Theodosius\? Well he’s taken such good care of me that he simply has to join the family. He’s so charming and handsome people are practically queueing up to adopt him. Say you’ll let me keep him, please\?\n\nOh, by the way, I’ve been spending time entertaining some of the bright young minds of Constantinople (they all use such charmingly long words – have you ever heard ‘inveigle’\?) and one of them has a way of keeping water fresh that would be an absolute life saver on your campaign in dusty old Africa. If you do me the favour I asked I would be delighted to procure his secrets for you in no time…
-Ave, Belisarius! Word of your continuing success resounds in my ears day and night – it would seem that you are driving the Ostrogoths from Italy with your own two arms, the way they talk! I must confess I find myself frustrated with the focus on personal works of valour rather than reconquest… But no matter, while it progresses, I am happy regardless.\n\nIndeed, in order to speed our undertaking and lift this unnaturally heavy burden from your shoulders I have dispatched Narses to help you. He is tactically astute and, best of all, loyal. He seeks no personal glory and can be trusted implicitly. Please do not see his appointment as a slight – after your recent successes there is no question of that – but instead as a reward. He will be most useful; I insist that you test his mettle for yourself in the heat of battle.
-Ave, Belisarius! It is so often the case that the man who distinguishes himself most highly in battle finds himself losing the same struggle in his very home. One thinks of King Ahab, mighty in battle and politics, so under the sway of his evil wife, Jezebel, that God destroyed him and brought low his kingdom.\n\nSo you see a matter that seems private and outside the remit of the sovereign is in fact a matter closely entwined with the fortunes of Empire. Belisarius, you are aware that your importance is second to none. It is only right, therefore, that you are scrutinised above all others. Your wife, Antonina, has been stirring scandal for some time in the capital. Some of my most valuable agents have been undermined by her behaviour and I hear that her latest scheme is directed at her own son! I will tolerate it no longer.\n\nIt pains me to send such an ultimatum to one who has served me so well, but I am confident that this action will benefit you above all others. You must shun the council of your wife. That is all.
-Greetings, General Belisarius. I write to you on the recommendation of your good wife, who is a friend from my youth. You are aware, no doubt, that I strictly limit my involvement in politics to allow me to focus on charitable works. The fact that I am writing to you demonstrates the extreme seriousness of the situation.\n\nMy husband, the Emperor, is a good man, but occasionally needs a loving hand to set him straight. You are no doubt aware that Amalasuntha, the Ostrogothic queen, has been imprisoned by her own people. Justinian has resolved to release her, but I fear that his motives are not pure. The woman is a serpent – she has twined her way around my husband’s heart. Can you imagine the shame\? The glorious Roman Emperor under the thumb of a barbarian whore\?\n\nI know that the Emperor has given orders to see her freed. If you truly wish to serve him and the Empire, you will ensure that the mission fails. I will soften my husband’s wrath and compensate you far better than he would. Your wife assures me that I can count on your discretion in this matter…
-My heartiest congratulations, Belisarius, on the news of your daughter’s impending matrimony! Anastasius is my favourite nephew, and I know he will make sweet Ioannina very happy. It’s an auspicious thing to see families - until now linked so closely by the bonds of friendship, patriotism and loyalty – finally linked by the bond of holy marriage.\n\nNo doubt your wife has explained the unusual nature of their relationship at present and my role in facilitating it. It is indeed not ideal for them to be living together in carnal union before the ceremony itself, but it seemed unavoidable considering the love of the couple and the frequent postponements your wife insisted on. I know she is furious at her daughter’s lost ‘virtue’, but in my mind, the timing of the consummation is secondary to the pure intent to marry, and surely god, who sees all motives, will see this above all else. Perhaps she forgets, Belisarius, that her own virtue was hardly intact when the two of you entered your blessed union. Restrain her from rash action, bless this union, and this unpleasant situation can only be turned to good.
-Belisarius, by all accounts you are among the blessed cohort of men whose earthly deeds are exceeded only by the many services they render to our Lord. Men who, like you, esteem the next life over their present situation always rejoice to hear of new opportunities with which to build the Kingdom of Heaven on this broken earth.\n\nRejoice then Belisarius, at the charge I bring you today. The Pope installed by the Goths, Silverus, is corrupt in both spirit and mind. Letters supporting the Ostrogothic rebels have been found in his possession and, while rumours circulate regarding their legitimacy, there is no doubt in my mind of their veracity. Many times have I tried to bring him into communion with the clergy in Constantinople but have found him to be willfully divisive. As Pope he will lead thousands into the damnation of heresy - a sin which outweighs any temporal trespass!\n\nThe Emperor talks of delicacy and reconciliation and will not act, but I know in his heart he longs for someone to take care of this problem for him – will you be his Holy warrior\?
-The harvest this year has been especially plentiful. What should we do with the excess\?
-During the games at the Colosseum in Rome, a man named Telemachus stepped down into the arena. Rushing up to the fighters, he implored them to stop, but was struck down and killed. As a result of this crime the Christian community has demanded that the games be banned.
-Walking through the wreckage of a conquered settlement, one of your generals hears a cry. It is a baby, abandoned in the ruins!
-There are a large number of Arians living in our lands. Should they be granted the same rights as true believers\?
-The number of Latin Christians in our provinces is very high. How should they be treated\?
-Many pagans, followers of the Celtic gods, fill our lands. Do they deserve equal rights\?
-AD411, Carthage. The Berber Christians follow the laws of Donatism, believing that theirs is the only true Church, and that all other Christians receive false sacraments. Marcellinus, who is presiding, asks whether we should tolerate such a thing within the Empire\?
-AD418, Carthage. Priests from around the Christian world have met at Carthage once again. The ascetic, Pelagius, preaches that God is not required to cleanse us of sin and that original sin never occurred. Many claim that this is heresy and that Pelagius and his followers should be driven out.
-AD431, Ephesus. Bishops from around the Christian world have gathered at Ephesus to reaffirm the Nicene Creed. However, Nestorius, Archbishop of Constantinople, has been denounced by his peers for rejecting that Mary was the mother of God, claiming instead that she was only the mother of Jesus. This goes against the Nicene creed by separating Jesus from God. As a result, Cyril of Alexandria is demanding that the Pope declares Nestorianism a heretical viewpoint.
-AD400, Toledo, Spain. A gathering of nineteen bishops have affirmed the Nicene Creed. However, the matter of Priscillian is a point of contention; even though their leader has died his heretical sect continues to attract followers. Should we tolerate this sect\?
-A Synod has been called, deciding that the dualist beliefs of the Manichaeists have been infecting the lives of otherwise good Christians. The Pope has sent a letter, stating that the Manichaean heretics should be driven from our lands.
-Many pagans, followers of the Germanic gods, fill our lands. Do they deserve equal rights\?
-Many pagans, followers of the old Roman gods, fill our lands. Do they deserve equal rights\?
-The Manichaeists now represent a significant percentage of our community. What is their status\?
-Greek Christians now represent a significant percentage of our community. What is their status\?
-Tengrists now represent a significant percentage of our community. What is their status\?
-Zoroastrians now represent a significant percentage of our community. What is their status\?
-The Mobeds have become concerned at the rise of Manichaeism in our lands. They have met to decide the fate of this disturbing cult.
-Reports have arrived claiming that the great Ma'rib Dam is showing signs of weakness, with many saying that cracks are now appearing. We should act now if we are to prevent the damage escalating - even attempting some minor repairs could lessen the potential damage and reduce the risk of flooding.
-Reports have begun arriving claiming that the great Ma'rib Dam is beginning to show signs of weakness and many say cracks are appearing. We should act now and begin repair efforts early if we want to prevent the damage escalating, even attempting some minor repairs could lessen the potential damage and reduce the risk of a flood.
-Reports have arrived claiming that the great Ma'rib Dam is showing signs of weakness, with many saying that cracks are now appearing. We should act now if we are to prevent the damage escalating - even attempting some minor repairs could lessen the potential damage and reduce the risk of flooding.
-Reports have arrived claiming that the great Ma'rib Dam is showing signs of weakness, with many saying that cracks are now appearing. We should act now if we are to prevent the damage escalating - even attempting some minor repairs could lessen the potential damage and reduce the risk of flooding.
-Long have we tolerated your adherence to this foreign and unholy religion. At the beginning of your reign you assured us that we would be allowed to flourish unthreatened by your beliefs, but it is clear to us now that these were empty words and that your true goal is the eradication of our faith and all who believe in it. It is too late for us to try to turn back the tide, but we demand the means to protect ourselves. Provide us with a gift of gold so that we may live according to our conscience and without fear of hardship. I make this request humbly, but know this: my followers are desperate men, and I fear blood will be spilled should they be denied. Choose more wisely than you have done thus far, my lord.
-Long have we tolerated your adherence to this foreign and unholy religion. At the beginning of your reign you assured us that we would be allowed to flourish unthreatened by your beliefs, but it is clear to us now that these were empty words and that your true goal is the eradication of our faith and all who believe in it. It is too late for us to try to turn back the tide, but we demand the means to protect ourselves. Provide us with a gift of gold so that we may live according to our conscience and without fear of hardship. I make this request humbly, but know this: my followers are desperate men, and I fear blood will be spilled should they be denied. Choose more wisely than you have done thus far, my lord.
-Long have we tolerated your adherence to this foreign and unholy religion. At the beginning of your reign you assured us that we would be allowed to flourish unthreatened by your beliefs, but it is clear to us now that these were empty words and that your true goal is the eradication of our faith and all who believe in it. It is too late for us to try to turn back the tide, but we demand the means to protect ourselves. Provide us with a gift of gold so that we may live according to our conscience and without fear of hardship. I make this request humbly, but know this: my followers are desperate men, and I fear blood will be spilled should they be denied. Choose more wisely than you have done thus far, my lord.
-Long have we tolerated your adherence to this foreign and unholy religion. At the beginning of your reign you assured us that we would be allowed to flourish unthreatened by your beliefs, but it is clear to us now that these were empty words and that your true goal is the eradication of our faith and all who believe in it. It is too late for us to try to turn back the tide, but we demand the means to protect ourselves. Provide us with a gift of gold so that we may live according to our conscience and without fear of hardship. I make this request humbly, but know this: my followers are desperate men, and I fear blood will be spilled should they be denied. Choose more wisely than you have done thus far, my lord.
-The Sassanid king, your overlord, has invited you to dine in the majestic summer palace he had you build just outside of Hira. His tongue loosened by the wine, the Shahanshah launches into an unprovoked attack on the character of your people:\nI see no good in the Arabs – materially and spiritually – they have no force or power in them, their place is with the beasts! They are deprived of the good things life offers: good food, drink and dress. Their food is camel meat, which even the lions refuse to eat because of its bad taste. How do you abide the kingship of these worthless people\?
-The Shahanshah rolls his eyes exaggeratedly and staggers to his feet.\nIf only my subject was as full of wisdom as he is pride! If you Arabs feed a guest they count it as a virtue, and of this their poets sing – they are lowly, poor and miserable and yet they are so proud and arrogant. They do not complain of hunger, poverty and misery and put themselves above all other nations – so of what are you so proud\?
-Far from placating the Shahanshah, your agreement seems only to have fuelled his mockery.\nWhere is the pride for which the Arabs are so famous\? Surely you have a word to say in defence of your people, or a rebuke concerning the dissolution in which you perceive me to possess\? Perhaps now that you have tasted the ways by which my people live, you have lost your fondness for the meanness and denial of your previous existence. It has pleased me to have a people so spirited under my command, but it would please me yet more to break their spirit. Say now that you prefer the traditions of the Sassanids over those of your own people and I will look upon you with great favour.
-As promised, now that we have established a permanent base our allies have offered to put their lands and citizens at our disposal. This new empire of the east is ours to rule! But perhaps we are being too hasty\? With these new lands we will inherit their old problems, their obligations and their demands. Perhaps it is better to be free of all this, free as the wind that shapes the dunes…\? You may decide. It pleases me to reward you thus. Choose the fate of the Tanukhs! Lead us forth as an empire of the sand!
-Money, it seems, is the object of desire, moreso than loyalty to you. This man asks for more, to properly guarantee a smooth transition. A setback, certainly, but there are options...
-The assassin was discovered, knife in hand, on the verge of killing. Nobody believed it was all an act, so you must now pass judgement on the matter.
-Whilst the assassination was successful, the manner of death was not quite as subtle as you would hope. People are asking difficult questions that you will have to answer.
-The assassination failed, leaving your intended target badly wounded, but alive. Naturally, people are asking difficult questions - questions that you must answer.
-Your target, now publicly defamed, is in rather a difficult situation. Should you intervene, they are likely be grateful…
-Through an impressive feat of confusion, rumours have been spread as you requested. However, the trail leads back to your agent instead of the target. How do you wish to deal with this error of chicanery\?
-Embezzlement is only a crime when you get caught. Unfortunately, this fellow did, and now people are demanding justice. How will you act\?
-Whilst the embezzlement was a success, people have noticed the missing money, and particularly the vanished jewels. When they ask, what will you tell them\?
-The opposition party has frustrated your efforts to gather the support you desire. We can continue, but you must decide how.
-Scandal! Somebody has objected to the planned marriage! This dramatic turn of events must be rectified. How do you wish to proceed\?
-Loyalty comes from many places. From the brain, from the heart, and from the wallet. This person demands more money to ensure their dedication. What do you say\?
-In this case, securing loyalty is proving quite difficult. Unfortunately, and ugly though it is, more drastic measures may be required…
-This bride seems suitable! Will her intended accept the choice you have made for him\?
-When one is climbing the greasy pole there is but one rule; hunt or be hunted. Your candidate has been blocked from office by your opponents. What will you do\?
-Along the borders of our nation, a farmer from the neighbouring state is claiming land belonging to one of ours as his own.
-Unfortunately, I was unable to prevent one of our guests from making a fool of himself. He gravely insulted our good nation. We have just received an official complaint about him.
-My lord, we should hold a fabulous feast, inviting all the great and good of the land to marvel at our splendour, and lasting for ninety days and nights. Who should we invite\?
-Greetings. I have brought a gift from my people in order that we may improve relations.
-A fugitive has arrived, claiming to be the agent of a rival power. He has requested asylum, but his former employers are demanding his return. He has offered us valuable state secrets should we protect him…
-A foreigner claiming to be a great stonemason has presented himself to you. Do you wish to take him into your service\?
-Occasionally, a man's thirst for wine blinds him to reason. One such prominent tribesman has been caught exploiting the local immigrant population to pay for for the drink he so craves.
-Your spoilt son has fought with a prominent member of a rival tribe. Tensions have increased as a result. The elders look to you to settle the matter.
-Swords are possessions of pride, but such precious things can also cause discontent… Your brother's boy claims another has stolen his sword. The accused denies it.
-Some fool has been caught defacing the temple of Jupiter. Such matters should not be taken lightly.
-The streets are alive with prattle at your expense. Your cousin has been involved in an aggressive argument in a public space. The street entertainers are already mocking you.
-One of your magistrates has come to tell you that he has gambled away his position. What do you wish to do\?
-Two of your household slaves have come  seeking your permission to marry, what do you wish to do\?
-An ambitious politician plans to cause mischief at your expense. He wishes you to deal with debts accrued by some local farmers and has a large amount of support from the people.
-Rumours abound that one of our generals will compete in the upcoming Chovgan games in disguise. While the prestige gained will be great, he may be injured whilst taking part.
-A farmer has come before you telling of a sword he found when one of his flock cut its ankle on the mighty blade. He claims the sword is a gift meant for you alone.
-One of our nobles is competing in a local Kassai event, requesting your sponsorship of his entry. There is a large prize and honour to be gained from winning the event.
-My Lord, due to the success of the recent construction project, there are a lot of materials leftover. What should we do with them\?
-Due to the neighbouring wars, there are many migrants and refugees entering our cities. They are bringing money, but also their suspect religion and cultures to our lands. Some of your ministers have asked that they be ejected.
-We found a large hoard of gold hidden in a cave whilst mining. What should we do with it\?
-It has been quite some time since we had a celebration, and I'm sure it would raise the people's spirits. To what or whom should we dedicate it\?
-A foreign trader has arrived with reams of silk. It is said that he knows of a secret trade route, along which many valuable commodities pass. His wares are flooding the market, lowering prices and income.
-My lord, as one of your tax collectors, I must report that some citizens have been withholding payment of your just  taxes.
-We demand better working conditions. We are not slaves.
-This very night there will be quarrelling in the great hall, as our nobles compete in the Flyting. Do you wish to participate\? If not, one of our generals has offered to represent you.
-A promising young gladiator, who is expected to make a name for himself, is up against a tough opponent. Care to place a bet\? 500 talents should be sufficient.
-With many battles to his name, this veteran is fighting in the arena next month. He's being pitted against a much younger fighter. Would you like to place a bet\? 500 talents should be sufficient.
-A freedman who was once your slave has murdered a Roman citizen and seeks your assistance, what do you intend to do\?
-The races are upon us again. The dominant Green and Blue are once again competing, but the charioteers of the Red and White teams are also present. If his highness would like to place a friendly wager, I'm sure we could treble his investment…
-The local chieftain detests you. He curses your ambitions, your military might and mocks your manhood. He makes it known to all that he should stand in your place.
-A skilled craftsman has been captured by our outriders. He claims the ability to make swords with the deadly curved blades of the east. What should we do with him\?
-This man was drunk when he was supposed to be on watch. The watering-down of our elite troops with these bumpkins seems to be the main cause!
-A mercenary commander passing through seeks an audience. He offers us his swords and loyalty if we would be willing to pay upfront…
-A local noble, seeking favour, gives us a rag of fine colts to do with as we wish.
-An old lanista has been found wandering the streets of the capital. He has expressed a desire to serve the Empire.
-We have captured an old man spying on our troops. He has already admitted his guilt, what should be done with him\?
-The child, found in the wreckage of a city, has begun asking questions about his heritage.
-The local governor is hostile to your aims. He proclaims loudly to his peers and any who will listen that he should be in charge of the Legions.
-Our society contains people from many tribes, and sometimes old grudges come to the surface. Two of these groups have fallen out and are at a stand off with one another. If the matter isn't dealt with soon, it could cause a fracture within the hordes.
-One of the younger warriors has been bragging to all that his methods are best, that he has slain more than you ever could and he will sire more children. He is a young lion challenging the leader of the pride…
-Your loyal servants have brought to your attention that your rivals have been meeting in the shadows. The only common cause that could bring them together is their hatred of you.
-The tribe grows fractious – two groups within it have been caught fighting to prove who is the most blood-thirsty!
-Politicians and the public have both become enamoured by a great young orator, he is obviously ambitious and is gaining the favour of the rabble. Although he has yet to disparage you, he hasn't supported your endeavours either.
-A Roman boy, taken as a hostage, has proven his worth and would make a fine addition to the court. What do you wish to do with him\?
-There are rumours abound that in the shadows and forgotten places your political rivals are meeting. Who knows what is being discussed in these secret conclaves\? Let us hope it is not you...
-A boy taken as a hostage at an early age has adopted our way of life, he is an excellent horseman and excels with bow and arrow. What do you wish to do with him\?
-A Persian boy, taken as a hostage, has proven himself to be a true Roman and excels in all that he does. How should the boys future progress\?
-When the rabble speaks the leadership must listen. The people call for purity in their politicians; an end to the lining of their pockets at the cost of Rome's glory.
-This man has been preaching his Arian beliefs in the market, breaking the laws we have imposed.
-Arians are crossing our territory in order to reach a holy site.
-A ram hung in sacred offering to the gods is completely bloodless! Not a single drop can be squeezed from the creature.  We must do something to appease the gods.
-Exhausted and terrified a man comes before you to tell you that the earth beneath the ancient standing stones is quaking. Could it be the dead warriors of our enemies coming back to life\?
-A stranger, hooded and cloaked, has arrived in our midst. He claims to know the location of a long-lost sacred site, which he will show you, for a price.
-We caught this man attempting to organise Latin Christian worship. Such things are forbidden here.
-Hundreds of Latin Christian pilgrims have been travelling to the Church of the Holy Sepulchre, on the site of Golgotha, located within our lands. Left unchecked, this could lead to a full scale migration, we should prevent further pilgrimage.
-We found this woman drinking at a small shrine she had built to her god Sucellus, whose imagery we have outlawed.
-A large stone circle stands on a hill near the sea. It has long been a site of Celtic ritual. We should prevent the barbarians from worshipping there.
-I bear tidings from the Holy Church. A man, recognised for his piousness and devotion, is due to be ordained as a bishop. Do you agree\?
-As a high ranking clergyman, our bishop has been selected as a candidate for the Papacy.
-A woman, the sister of a popular local deacon, has been discovered secretly worshipping the heathen gods. As the Canon states, no man may be a priest unless his entire family is Christian…
-A deacon of a local church has been found lending money and charging interest. As agreed in the Canons of Carthage, no member of the clergy may profit from usury. What should be done with him\?
-This man has been captured breaking the sanctions we have imposed on the practice of the pagan Germanic religions.
-Worshippers of Baldr gather in the nearby forest in their hundreds. It is certain that vile heathen rituals will take place there. Should we stop them\?
-This man has been observed breaking the sanctions we have imposed on the worship of the old gods.
-The site of the Temple of Apollo, destroyed by Emperor Theodosius, is still drawing followers of Apollo to this day.
-A man is brought before you, still smoking, he claims to have been struck by lightning. Surely this is a sign that he is favoured by Tengri\?
-A shaman comes before you claiming to have seen a vision in which the skies darkened at your advance. He says that you will bring about the end of days.
-This man has been captured breaking the sanctions we have imposed on the Manichaeist religion.
-In Mesopotamia, the birthplace of Mani, a large gathering, which they call a 'Bema Fest', takes place annually. These are our lands, should we let such things continue\?
-The local priest has been particularly successful in converting this village's population. He could be of use to us elsewhere.
-When I awoke this morning there was a large throng of people standing around a rock in my fields. They claim Saint Vitus once rested there on his way to Rome. They're spoiling my crops!
-A man selling relics in the capital has recently sold the branch that drowned Saint Sabbas thirteen times! He is offering you gold if you'll look the other way.
-I have a very special deal for you. A once in a lifetime offer for a piece of the True Cross, taken from Golgotha by St Peter himself.
-Even with the sanctions imposed upon the Greek Christians, this man has been found breaking them.
-This man has been captured breaking the sanctions we have imposed on the Tengri religion.
-Carrying their tents and horses with them, followers of Tengri flock to the Halys River, one of their holy sites. Should we wish, we could prevent them from returning.
-An acolyte has allowed a holy brazier to burn out. What should be done with the boy\?
-One of your subjects has buried his wife's corpse within the walls of his home. Contact with the dead is an abomination, what should we do with this man\?
-We caught this person worshipping the eternal flame at their home. This goes against the laws of the land.
-The ancient temple housing the Atash Adaran lies within our borders, atop Mount Khajeh. Zoroastrians have been travelling there for some time. Your minister asks that you stop them entering.
-The tension all around the realm is palpable; it is time for you to decide your course of action in the matter of Carloman’s succession. This moment could be remembered for all time as the one in which the fate of all the Franks was decided. If you truly believe you are the rightful claimant to all of Carloman’s lands, then now is the time to strike. It will require military action to put down those loyal to him, but given the fractured state of affairs in his lands it may deal a decisive blow and end any conflict swiftly. However, should you choose to support Carloman’s son as the claimant to his lands, then a long-lasting, positive relationship could be built between your peoples; perhaps two Frankish kingdoms, firmly united, are as good as one\? Make your choice, Charlemagne, your future awaits!
-The indiscretions of youth reveal themselves, Charlemagne, and now the father must pay for the sins of the child. Your daughter, whom you had thought beyond reproach and the victim of unfounded rumours, has revealed these rumours to be true. Your discovery of her with a local boy has sparked outrage; her name is on everybody’s lips, and your reputation is at stake. You can silence these murmurings in one of two ways – by reprimanding her, or by reprimanding the rumour-mongers.
-The Abbasid Caliphate, which controls the great swathe of lands from Africa to the Levant, threatens your shores. They muster their men as a show of strength on the shores of northern Africa, threatening to cross the straits and invade your lands. They say that if you were to pay them a tribute, however, they would put away their swords. Perhaps with your money in their hands they will be able to muster the strength to actually defeat you and conquer your lands\? Whatever your decision, the people of the Iberian Peninsula wait with bated breath the results of the parley between you.
-Over thirty years ago, at the request of Pope Stephen II, the then Frankish king - Pepin, father of Charlemagne - crossed the Alps and defeated the Lombards under King Aistulf. Believing Aistulf was preparing to take Rome after his recent conquests in the Exarchate of Ravenna, the Pope felt threatened and called for Pepin’s support. After the victory, Pepin promised to cede all lands previously conquered by the Lombards, in an act that has come to be known as the Donation of Pepin. Now, all these years later, Pope Adrian I has demanded cessation of the region of Ravenna as part of the terms of this historic promise. Whether to adhere to this old agreement is your choice to make, but know that your decision is likely to have lasting effects whatever the outcome.
-Infuriated by your refusal, the Pope is seeking the support of the Franks, who made the agreement in the first place. As such, he has sent an envoy to Charlemagne’s court entreating his support in this matter; you too must quickly choose a course of action and dispatch an envoy if war is to be avoided.
-You have received a letter from Charlemagne explaining that his support of the Pope and the Church is non-negotiable. As such, he has demanded your compliance with any and all Papal demands for territory under the terms of the Donation of Pepin. Failure to accede to the Pope’s demand for Ravenna and will result in war between your two peoples.
-My lord! Your man, Alcuin of York, faces a crisis of loyalty. He has been approached by the Frankish king, Charlemagne, and invited to take a place at his court. Alcuin, as you surely know, is one of the finest minds in the realm, and a great boon to your court. Yet the opportunity at Aachen appeals greatly to Alcuin, who feels he cannot refuse the chance to work with the greatest brains in the known world. He bequeaths you to allow him to leave for Francia immediately.
-Alcuin is, as you might expect, angry at your decision to detain him and effectively curtail his academic career. You expected this, but not his decision to leave anyway, regardless of your decision to the contrary. Another crossroads is coming, my lord, and another decision comes along with it.
-Intrigue stirs at the heart of the Papal States. Bloodied and desperate, Pope Leo III has arrived at your court, seeking your protection - as the only arbiter the Christian world truly trusts. Roma has always suffered bitter divisions between rivals, now it appears that the family and allies of the old Pope, Adrian, have taken exception to Leo. After their accusations of adultery and perjury fell on deaf ears, their agents apprehended him as he ventured from the city, trying to tear out his eyes and tongue to render him unfit for office. Now he comes to you, filled with hope by your past actions to protect his holy office in times past. He hints that your help in this matter would demonstrate your worthiness to assume the most coveted title of all – that of the Holy Roman Emperor. His opponents, however, offer a hefty reward to anyone who hands Leo back, to stand trial in Roma…
-Thirty two years ago your father, the Frankish king, Pepin, at the request of the then threatened Pope, led an army against the Lombards and forced their surrender. In doing so, he transferred many of their captured lands to the Pope, an act known as the “Donation of Pepin”. Pope Adrian has now called upon the Lombards to honour this promise and cede Ravenna to the Papal States, but the current Lombard king has refused to do so. As a result, the Pope has sent an envoy to your court beseeching you to you enforce the promise your father once made. The Lombard king, Desiderius, has also sent an envoy, pointing out that the Pope has been spreading dissent in the provinces of his client duchies.\nChoose which side you wish to support in this matter, but know your decision could have a lasting impact.
-Charlemagne awaits your reponse. His instruction is clear – you will convert to Christianity, or die. The decision is yours alone, yet the outcome will be far-reaching.
-Our men are anxious at having to guard such heathens. You must now decide what to do with these captives. Your choice will decide not only their fate, but also your people’s opinions.
-Tired of your endless raids, the king of Mercia, in England, has had enough, and is now seeking an arrangement by which these attacks will finally come to an end. He offers a plot of land within his own kingdom, or gold should you prefer it. Acceptance of this deal will mean peace between your two peoples, but of course you could accept it and betray him later! Perhaps he means to do the same\? However, should you wish it you can deny the English people mercy, continue on your profitable rampage and strike fear into the hearts of its people. The choice is yours!
-Tired of your endless raids, the Northumbrian king seeks a new agreement with you, whereby your attacks cease in return for payment. He offers you your own plot of land from within his own kingdom, or gold should you prefer it. Acceptance of this deal will mean peace between your two peoples, but of course you could accept it and betray him later! Perhaps he means to do the same\? However, should you wish it you can deny the English people mercy, continue on your profitable rampage and strike fear into the hearts of its people. The choice is yours!
-An old man sits at the bank. If this riddle is solved, he promises to give Ri the Salmon of Knowledge, a manifestation of every truth in the universe - “I was an armed warrior. Now a bold young retainer covers me with gold and silver, and twisted coils of wire. Sometimes men kiss me; sometimes I call close comrades to battle with my voice.”
-The old man shakes his head firmly – a druid was not the answer. The Ri goes on his way saddened, but is immediately distracted by the sight of a large black cat with a spot on its breast. It wanders up to the Ri with a certain insolence, demanding his attention. What does he do\?
-The owner of the cat sees the Ri offering it a saucer of milk. Impressed by his kindness, she tells him of the head of a severed king in a nearby village. The head continually begs for water from a remote stream to salve its gaping neck. She offers the Ri a gold goblet and directions to the stream.
-For three days the cat and the Ri have stood, eyes locked and unblinking. A small crowd has gathered to watch the battle of wills, and their cries fill his ears. Some insist it is Cat Sith and urge him to flee, while still others drive him on with words of encouragement.
-Horn was correct! The old man hands the gleaming salmon over, but before the Ri can take a bite he is startled by the sight of a man perched in the branches of a tree. He claims he is Buile Shuibhne, a king cursed to live a half-avian life and driven to leap from tree to tree at the slightest noise.
-Savouring his stolen salmon, the Ri wanders further down the bank. There he catches sight of a mysterious young woman tending to her horses. The Ri is in two minds. On the one hand, she might be a kelpie tending her malicious offspring. On the other, she might be a friendly young farmer.
-The Ri comes across three sons of Tuireann, covered in blood and surrounded by villagers. They are accused of slaying Cian, a local king. They beg for mercy, claiming that he had taken the shape of a pig and was unrecognisable. If he lets them go, they claim, they will prove their innocence by retrieving his hide and demonstrating its magical powers.
-As promised, the three sons of Tuireann return bearing a bloody pigskin. However, they have paid a heavy price - all three bear mortal wounds. They claim that the skin has potent healing powers and beg the Ri to bind their wounds in it. In return they promise to provide the answer to any question under the sun.
-The heads of the brothers lie in the dust at the feet of the Ri. Impressed by your swift judgement the people bring another case before you. The man, Bres, is the king of an oppressive tribe bought low in a recent conflict. In return for his life, he offers you the secrets of fertility, guaranteeing you bountiful harvests and cows that never dry out.
-Centuries of oppression and uncertainty have smothered the spirit of the Celtic people, but their glorious past, preserved in legend, provides the last glimmer of hope to a generation seeking a new beginning. At the ancient heart of the island, the young Ri departs, determined to discover the future in store for his people. He will find knowledge of it, or forge it himself!
-Centuries of oppression and uncertainty have smothered the spirit of the Celtic people, but their glorious past, preserved in legend, provides the last glimmer of hope to a generation seeking a new beginning. At the ancient heart of the island, the young Ri departs, determined to discover the future in store for his people. He will find knowledge of it, or forge it himself!
-Centuries of oppression and uncertainty have smothered the spirit of the Celtic people, but their glorious past, preserved in legend, provides the last glimmer of hope to a generation seeking a new beginning. At the ancient heart of the island, the young Ri departs, determined to discover the future in store for his people. He will find knowledge of it, or forge it himself!
-Another family is seeking to adopt one of your sons as their own! Can you really afford to let your boy go\?
-Treachery! Rumour has it that this man is plotting to assassinate a member of your family! There is little proof, but if you do not act the consequences could be dire.
-The plot has failed, and the assassin's true colours have been revealed. His target is wounded, but alive. How you proceed now will determine whether or not the assassin remains that way…
-You ignored the warnings, and noble blood has been spilled. All evidence points to this man's involvement. What will you do with him\?
-An unscrupulous rival has spread foul rumours about a member of your family! Give the order and they will be silenced…
-One of your daughters has been enticed by a suitor and is planning to elope. Should she be allowed to follow her heart\?
-One of your subjects has recently become infatuated and wishes to marry his intended. Shall their union be allowed to continue\?
-This man, hungry for power, has positioned himself to take office without your approval. He may be suited to the task, but can you afford to let his ambitions threaten your family's power\?
-Chilibidius, as promised, has been brought before you and made to restate his position – he claims to be a Roman general of quite some prestige. If this is true, surely we would have heard of him before now\? All the same, he offers to curry favour with the Empire in our name if we allow him to return. Doubts and shadows abound, but the choice is ultimately yours…
-Dire news, lord! Chilibidius, the slave general we recently sent back to Rome, has been proven nothing but a liar! Another slave in the camp testified, under pain of death, that this ‘Chilibidius’ is nothing but a rogue. He is well on his way to reaching Imperial territory, and it will be no easy feat, but we could still possibly intercept him before he reaches them.
-As expected, lord, the Huns are here, and they do not mean to make niceties. They have their teeth bared for war, but so do we. The question now is how to fight them\? We could act defensively and have them crash uselessly against us – but they are many, and may find purchase by sheer numbers alone. Alternatively, we could attack first, striking with shock and speed. Both choices have advantages, but the decision is ultimately yours.
-The relentless Huns are here, as predicted. All those who did not comply with their demands have met a gruesome fate. They make peaceful overtures, but do not misunderstand the truth behind their smiles - tribute is what they desire. We could pay them what they want, which will buy us time, but they will inevitably return and demand more. Who knows how much they will ask for next time\? Or, we could defy both them and fate, and refuse their demands. Either this could incite their anger, or our tenacity could earn their respect. The choice is yours, my lord, but be mindful that the Huns do not like to be kept waiting…
-As expected, the Huns have returned. Not content with the ‘pittance’ we gave last time, they ride back to demand more of our livelihoods, more fruits of our hard-earned toil. Their demands are as harsh as ever, and the fire in their eyes says their conviction is not to be doubted. We could capitulate and pay, or we could stand resolute and defy them. The Huns are unforgiving, but we could make our own mark on history with their defeat…
-As expected, the Huns have returned. Not content with the ‘pittance’ we gave last time, they ride back to demand more of our livelihoods, more fruits of our hard-earned toil. Their demands are as harsh as ever, and the fire in their eyes says their conviction is not to be doubted. We could capitulate and pay, or we could stand resolute and defy them. The Huns are unforgiving, but we could make our own mark on history with their defeat…
-As expected, the Huns have returned. Not content with the ‘pittance’ we gave last time, they ride back to demand more of our livelihoods, more fruits of our hard-earned toil. Their demands are as harsh as ever, and the fire in their eyes says their conviction is not to be doubted. We could capitulate and pay, or we could stand resolute and defy them. The Huns are unforgiving, but we could make our own mark on history with their defeat…
-In your splendid courts a young warrior, Ybor, grows restless. His heart yearns for the wilds, teeming with the great trials that earn a man repute, and he beseeches your permission to leave. Though his departure pains you, you know that he will return all the stronger, shaped by the choices he makes in his wanderings. What parting gift do you bestow\?
-In your splendid courts a young warrior, Ybor, grows restless. His heart yearns for the wilds, teeming with the great trials that earn a man repute, and he beseeches your permission to leave. Though his departure pains you, you know that he will return all the stronger, shaped by the choices he makes in his wanderings. What parting gift do you bestow\?
-In your splendid courts a young warrior, Ybor, grows restless. His heart yearns for the wilds, teeming with the great trials that earn a man repute, and he beseeches your permission to leave. Though his departure pains you, you know that he will return all the stronger, shaped by the choices he makes in his wanderings. What parting gift do you bestow\?
-Sword at his hip, Ybor strides into the lush forests with an air of youthful invincibility. Before too long, his progress is arrested by the cries of men and the clash of steel - bandits are hacking their way through a crowd of travellers. Through the dust and blood, he spots a famous poet attempting to shield a priestess of Godan. Who does he save\?
-With the brooch on his chest, Ybor sees the world with an icy clarity, marvelling at the familiar forest as if it were an entirely new landscape. Suddenly a tongue of fire flares in his path, siring an inferno that bars his way. A few farmers from the nearby village cower in fright, despite the threat to their crops.
-In exchange for his life, the Poet bestows a silver tongue on Ybor, enabling him to weave a shimmering web of words around the hardest heart. Soon he finds himself leading a band of adventurers, attracted by word of his prowess. But fame begets jealousy; the brothers Ambri and Assi descend upon him at the head of a countless host, glittering with steel and malice.
-In saving the priestess’ life and slaying the bandits, Ybor proved himself to be a manifestation of Godan, the god who holds life and death in one mighty palm. The priestess considers it her sacred duty to guide Ybor and enhance his destructive and healing powers by mystical means. However, unlike Godan, Ybor must choose just one path to tread. Which will it be\?
-Ybor emerges from the fire unscathed, shielded by his faith in Godan. The farmers, witnesses of this miraculous act, spread the story far and wide, and soon he is beset with supplicants seeking his intervention. A plague has fallen on a nearby village and a local wise man has confirmed that Ybor alone can bring deliverance.
-With the fire quelled, the farmers beg Ybor to return to the court of their king with them. They recount the tale of your valour and command to those assembled. The king recognises Ybor’s nobility and offers him a position as advisor. The priest of Godan, similarly impressed, courts him for the priesthood, offering to give divine weight to the words he utters.
-A Request From Antonina: Rumours
-A Request From Antonina: Theodosius
-A Request From Justinian: Narses
-A Request From Justinian: Photius
-A Request From Theodora: Amalasuntha
-A Request From Theodora: Ioannina
-A Request From Theodora: The Pope
-Plentiful Harvest
-Saint Telemachus
-War Child
-Religious Sanctions
-Religious Sanctions
-Religious Sanctions
-Conference of Carthage
-Council of Carthage
-Council of Ephesus
-The Council of Toledo
-The Manichaean Heresy
-Religious Sanctions
-Religious Sanctions
-Religious Sanctions
-Religious Sanctions
-Religious Sanctions
-Religious Sanctions
-The Manichaean Heresy
-Collateral Damage
-Collateral Damage
-Collateral Damage
-Collateral Damage
-The Bishop – Exclusion
-The High Priest of Almaqah – Exclusion
-The Rabbi – Exclusion
-The High Priest of Almaqah – Exclusion
-Careless Talk
-Careless Talk
-Careless Talk
-An Audience with Mavia – Coronation
-Worth Your While\?
-Red-Handed
-A Suspicious Death
-A Suspicious Injury
-Mercy
-Turnabout
-Caught in the Act
-Suspicions Aroused
-Enemies in High Places
-Just Cause or Impediment
-Greasing the Wheels
-Desperate Measures
-A Worthy Bride
-Political Obstruction
-Border Dispute
-Diplomatic Dispute
-The Feast
-Tribute
-Turncoat
-The Stonemason
-Trading with the Enemy
-Hostile Dispute
-The Stolen Sword
-Sacrilege in the Temple
-Hostile Dispute
-The Gambler
-The Servile Wedding
-Agrarian Agitator
-The Chovgan Tourney
-A Sword of Power
-The Kassai Contest
-Excess Materials
-Foreign Migrants
-Hidden Treasure
-The Festival
-The Silk Trader
-Withholding Taxes
-Workers on Strike
-The Flyting
-A Little Flutter
-A Little Flutter
-The Murderer
-The Chariot Races
-Hostile Governor
-The Swordsmith
-Drunk On Watch
-Mercenary Commander
-The Gift of Speed
-The Lanista
-The Spy
-War Child
-Hostile Governor
-Tribal Strife
-The Challenger
-Secret Meetings
-Tribal Loyalty
-The Challenger
-The Protégé
-Secret Meetings
-The Hostage
-The Prodigy
-Heeding the Mob
-Illegal Practice
-Pilgrims
-The Bloodless Ram
-Stone Warriors
-The Stranger
-Illegal Practice
-Pilgrims
-Illegal Practice
-Pilgrims
-Candidate for Bishop
-Pontifex Maximus
-The Black Sheep
-The Money Lender
-Illegal Practice
-Pilgrims
-Illegal Practice
-Pilgrims
-Lightning Doesn't Strike Twice
-Ill Omens in the Sky
-Illegal Practice
-Pilgrims
-The Golden Tongue
-The Holy Site
-The Relic Seller
-The True Cross
-Illegal Practice
-Illegal Practice
-Pilgrims
-Burning Convictions
-A Matter of Life & Death
-Illegal Practice
-Pilgrims
-Carloman's Succession
-Unoriginal Sin
-The Abbasid Caliphate
-A Lombard Promise
-A Lombard Promise
-A Lombard Promise
-Talent Acquisition
-Talent Acquisition
-An Eye for an Eye
-A Frank Promise
-Verdict of Verden
-Verdict at Verden
-Restless Warriors
-Restless Warriors
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Cycle of the Ollam Ri
-Adoption Attempt
-Assassination Plot
-Assassination Plot
-Assassination Plot!
-Defamation
-Elopement
-A Worthy Bride\?
-Political Gain
-A Sheep in Roman Clothing
-A Sheep in Roman Clothing
-The Hun Becomes the Hunted
-Between a Rock & a Horde Place
-Between a Rock & a Horde Place
-Between a Rock & a Horde Place
-Between a Rock & a Horde Place
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
-The Lay of Ybor
+This man has a serpentine mind, unhindered by polite convention.
+Sorry old chap, not a great deal going on between the ears I'm afraid!
+Is this important\? Bzzzz! Bzzzz! I haven't made nearly enough honey today! Bzzzz!
+I like your eyes. You have nice eyes. Very nice eyes. Yes.
+I'm a little garum pot, short and stout…
+Two left hands are better than none at all.
+Some people lack the traditional number of grandparents.
+When close relatives become parents the results can be unfortunate.
+Keeping a bloodline pure is not always a good idea.
+I understand the servile mind, and its plotting…
+A goatherd may rise to greatness if it is written.
+Wealth is power, and this man has power to spare.
+A lowly born but inherently worthy man may properly rise to eminence in the world.
+And what if I am well-connected by blood and marriage\?
+Every time I pray, I wonder why I bother…
+Worship\? Why would I want to do that\?
+Do I look stupid enough to believe in big, bearded, angry men in the sky\?
+This man is easy to annoy, anger and enrage. And he remembers his enemies. Oh, yes…
+A little wine never hurt anyone.
+Laugh, and the world laughs as you spill your drink.
+Drink! Drink! Why aren't you drinking, you bastards\?
+This man is trusting by nature, something others exploit at every opportunity.
+Oh look, there's a cloud that looks like Hannibal! No, really!
+This man wouldn't see a trap if it was holding up a big sign right in front of him.
+Rest\? Rest\? I am no weakling!
+Plenty to do today! Excellent!
+I'll sleep when I'm dead!
+Better to gnaw one's own leg off than to suffer this man's company.
+Some men have a natural air of command.
+Wits can take a man further than strong legs.
+Yes. No. Maybe. I don't know!
+I don't take no for an answer.
+Why do today what can be put off until next week\?
+Why should I\? Those slaves are standing idle.
+If he could find someone else to move his bowels for him, he would.
+Endless revelations of perversity, real and imagined, eventually grow boring.
+Even the gods of lust have turned their backs on this vile man.
+Even the briefest encounter with this vile pervert sees most folk running to the bathhouse to scrape themselves clean.
+Some people are just born lucky.
+Some would call it luck, I call it skill.
+Spirits watch over me.
+Smiling, even at another's misfortunes, does not come naturally to this old sour-face.
+Cold and uncharismatic, this man is difficult to like.
+An unconcerned expression hides many thoughts.
+Wine may be nice, but this man would never know it.
+Sober consideration of everything is this man's way in life.
+Under my roof we are not lewd, lascivious drunkards swimming in our own vomit!
+Wrong place, wrong time. What are you gonna do\?
+Oh well. It was worth a try, I suppose.
+There's 'unlucky' and there's 'cursed from above'. Mark the difference.
+A strapping fellow, strong as an ox!
+Illness is something that happens to other people.
+This man is blessed with the constitution of a god!
+Childhood illness casts its shadow over this man.
+As mother said, it pays to look after your health…
+Even picking up a sword exhausts this poor fellow.
+Anastasius
+Antonina
+Belisarius
+How do you make a slave go 'woomph'\?
+Burning issues must be acted on.
+Flames are pretty.
+The plight of others does little to move this person.
+Some people are just cold hearted.
+Someone silence that mewling child…
+Sometimes a reputation for violence is enough.
+Don't be afraid, I won't hurt you, much.
+A raise of an eyebrow is enough to turn men's bowels to water.
+I fight where the enemy are not.
+I do not fight my enemy's strength, only his weakness.
+Darkness hides an army of knives.
+Hard training means easier battles.
+Drill is worship! Worship of the gods of war!
+The men hate his guts, but they do what they are told.
+What's the point in cleaning it\?
+Some warriors just don't know when to stop.
+For the love of the gods! He's already really dead!
+Unwilling backs cry out for the lash.
+[Unseen]
+Brace yourselves my boys, here they come!
+Brace yourselves my boys, here they come!
+Brace yourselves my boys, here they come!
+Brace yourselves my boys, here they come!
+Brace yourselves my boys, here they come!
+Who wants to live forever\? Charge!!!
+Who wants to live forever\? Charge!!!
+Who wants to live forever\? Charge!!!
+Who wants to live forever\? Charge!!!
+Who wants to live forever\? Charge!!!
+No. You don't get to live through this.
+No. You don't get to live through this.
+No. You don't get to live through this.
+No. You don't get to live through this.
+No. You don't get to live through this.
+In battle this man inspires his warriors to acts of insane heroism.
+In battle this man inspires his warriors to acts of insane heroism.
+In battle this man inspires his warriors to acts of insane heroism.
+In battle this man inspires his warriors to acts of insane heroism.
+In battle this man inspires his warriors to acts of insane heroism.
+Put your backs into it, men, or I'll cut them off!
+Put your backs into it, men, or I'll cut them off!
+Put your backs into it, men, or I'll cut them off!
+Put your backs into it, men, or I'll cut them off!
+Put your backs into it, men, or I'll cut them off!
+A formidable war leader, respected even by his enemies.
+A formidable war leader, respected even by his enemies.
+A formidable war leader, respected even by his enemies.
+A formidable war leader, respected even by his enemies.
+A formidable war leader, respected even by his enemies.
+A true hero never turns from battle.
+A true hero never turns from battle.
+A true hero never turns from battle.
+A true hero never turns from battle.
+A true hero never turns from battle.
+Beyond brave, this man inspires courage in his followers.
+Beyond brave, this man inspires courage in his followers.
+Beyond brave, this man inspires courage in his followers.
+Beyond brave, this man inspires courage in his followers.
+Beyond brave, this man inspires courage in his followers.
+I just know where the enemy is.
+I just know where the enemy is.
+I just know where the enemy is.
+I just know where the enemy is.
+I just know where the enemy is.
+This\? It's just a flesh wound! Who's next\?!
+This\? It's just a flesh wound! Who's next\?!
+This\? It's just a flesh wound! Who's next\?!
+This\? It's just a flesh wound! Who's next\?!
+This\? It's just a flesh wound! Who's next\?!
+His thirst for battle is insatiable, no matter the cost in lives.
+His thirst for battle is insatiable, no matter the cost in lives.
+His thirst for battle is insatiable, no matter the cost in lives.
+His thirst for battle is insatiable, no matter the cost in lives.
+His thirst for battle is insatiable, no matter the cost in lives.
+Time for a drink\? We can sort all this out in the week…
+Nope, no idea where it's gone. No matter...
+This man is too arrogant to know that he doesn't have the first clue.
+This man can harness the efforts of many to achieve almost any goal.
+Good administration is like fresh air. It's absence is quickly noticed.
+This man is so effective that people wonder what he does all day.
+Big buildings, thrusting upwards, say something about the builder.
+I will be remembered as a builder, not a slayer!
+My vision will last a thousand years!
+Government is a firm, loving father to the people.
+My hands are tied. Rules are rules.
+Merciful government is an oxymoron.
+A full belly does not like a sword belt round it.
+Land left unused might as well be beneath the sea.
+Well-managed land is the basis of wealth.
+Whilst his father governed the provinces, this man was watching his every move.
+Swords and boots are useful, but orders move armies.
+Leave it with me… You'll get your swords.
+Armies march on their bellies, but run on paperwork.
+Call me what you like. I will enjoy the riches of my mines.
+There is much wealth to be found beneath the earth.
+Mother Earth gives up her wealth to those wise enough to find it.
+War: what is it good for\? Absolutely nothing!
+I won't take another's life. I couldn't.
+It's such a waste of life and for what\?
+Trade, you fool, helps pay for all this!
+This man knows the price of everything and the value of nothing.
+Come on! Haggle! It's not worth that!
+We'll take the fight to them. To their very gates.
+I think you'll find, young man, that war is in fact good for just about everything!
+Their very existence is a threat to our own. We must wipe them all from the face of the earth!
+This man enjoys politicking, and that makes him good at it.
+Power comes naturally to this man, and he enjoys using it.
+Persuasion and sincerity are powerful weapons.
+Kind words do not win battles.
+An easy nature is welcome until enemy swords are drawn.
+Soldiers need steel, not soft words.
+I've heard it said that the only thing to fear is fear itself, which is of course incorrect, as you are about to discover!
+Get the latrines sorted by sunset, unless you want to dig in the dark\?
+I said 'Jump!' you pathetic little ingrates!
+This man can handle himself in a fight.
+If there's fighting to be done, you want this fellow on side. Preferably your own.
+This man's battlefield prowess is almost legendary.
+This man enjoys the sight of blood, particularly enemy blood.
+This man delights in bloodshed for its own sake.
+Prisoners\? Parasites! Extra mouths to feed.
+To the victor the spoils.
+Robbing the vanquished is not enough for this man.
+What's a little genocide between friends\?
+On campaign with his father this man grew up around soldiers and knows their ways.
+People get scared in the dark. Not this man.
+Night comes down and finds him alone, lost in dreams in a world full of shadows.
+Born at midnight, this man resents the coming of dawn…
+There were strange noises in the dark. This man remembers them all.
+Darkness is not a friend. Never that.
+This man is terrified by the dark, endless hours of night.
+This man understands basic strategy, and knows he must study more.
+This man is an expert on strategy and the history of warfare.
+This man's grasp of military matters is the envy of all.
+That which does not kill you can really make your eyes water.
+This man has a sense for danger, warning him when things are wrong.
+The slings and arrows of outrageous fortune have entirely missed this man.
+This man has read up on theories of battlefield command.
+After long study of classical battles, this man has an excellent grasp of tactics.
+An encyclopaedic knowledge of tactical writings gives this man an edge.
+Despite his best efforts, this man's ambushes never work as planned.
+This man might as well put up a sign saying ambush ahead.
+This man couldn't organise a piss-up in the temple of Bacchus, let alone a surprise attack.
+This man's ambushes are hard and fast, and leave few alive to tell the tale.
+The first and last thing ambushed targets know is that they are dead!
+The noble art of surprise is personified in this man.
+This man lacks confidence when attacking.
+This man has problems organising an attack.
+This man can turn victory into humiliating defeat!
+This man shows signs of greatness when attacking.
+A superior grasp of the tactics inspires the men.
+This man is almost unsurpassed when attacking.
+Maybe we should've tried the battering ram first\? Thoughts\?
+Oh, there's a big wall in the way… Any ideas\?
+…But they're 30 feet tall! How are we supposed to get over them\?
+This man has an eye for weakness and a talent for exploiting it.
+Remarkable skills when assaulting walls make this man an expert.
+This man's siege skills are nigh on legendary.
+This man lacks confidence when defending.
+Defence is not part of this man's art of war.
+This man has no discernable talent for defence.
+In defence this man has a clear head and a strong hand.
+This man's defensive experience gives his men confidence.
+This man's superior defensive skill often gets the better of attackers.
+This man has lost more than one city but has, sadly, escaped with his life.
+His defence skills are legendary, but not in a good way.
+Woe betide any city left in the care of this man!
+This man can defend a settlement. Alone, if needs must.
+This man's defensive skills are worthy of an epic poem.
+Give this man a wall and he'll hold it against the gods!
+Grrrrrrrr! The red mist comes! Let me at 'em!
+This man's brutal axe-rage is something to behold.
+This man: if you see him coming, run. Just run. Fast!
+This man is uncertain of water. And battle.
+This man's mother is a better admiral.
+Command at sea has given this man a shiny helmet. But nothing else.
+This man is definitely developing his skills as an admiral.
+This man has a superior grasp of naval tactics.
+Command at sea has made this man a legend.
+Wait until you can see the whites of their… Oh bugger they’re on top of us - brace!
+What do you mean we're not supposed to let them land before we attack\?
+I'm not going out there, I might die!
+It's just a few ships, and none of them are as fast as we are. Trust me.
+They're not getting up that beach, we'll all have to die before I allow that!
+Whatever is blocking this man's path will be driftwood.
+This man has failed to blockade enemy ports on more than one occasion.
+Argh, if only we'd been closer together. Never mind.
+He has never conducted a successful blockade. This man's superiors have noticed.
+I want you to fill anything that tries to break through this line with arrows, got it\?
+This man is an experienced sea captain and a master of the naval blockade.
+Whatever is in port is definitely not getting out again.
+This man threw the book of naval tactics overboard. The fool.
+This man couldn't defend his mother's honour, let alone a fleet.
+Seagull droppings have more defensive ability.
+This man understands defence at sea.
+This man usually wins when defending at sea.
+The sea-gods blessed this man with tactical wit.
+Yeah, sorry about that, the oars got caught in a reef and then the mast collapsed.
+This man can barely protect his own ship, let alone others as well.
+We were in a convoy\? Really\? What\? Those other ships\?
+This man has guided trade and troop transports to safety more than once.
+If you want to ensure your convoy reaches safety, put this fellow in charge.
+I've never lost a shipment yet! Not one!
+There are pleasures of the flesh that only some enjoy.
+It makes me happy.
+The 'who' or 'what' doesn't matter. The 'how' usually does.
+Sorrow has ruled this man's heart since he lost all it held dear.
+His heart is broken. Irredeemably so.
+This man has lost everything that was dear to him.
+Battle is an old friend, as welcome as good wine.
+This man's courage inspires many great feats of arms.
+A fearless warrior, his men always follow him, no matter the risk.
+This man runs from a battle before it is strictly necessary. Or lost.
+Fear hinders this man in battle. Fear of battle.
+This man's timidity in combat is well known, the big wendy.
+This man cannot be trusted any further than he can be thrown. With an onager.
+Things are what they are. Water is wet. This man is not trustworthy.
+This man is as despicably false as they come.
+Strong oaths make this man a 'character'. And rude.
+This man cannot speak without using the foulest curses.
+Appalling foulness constantly drips from this man's tongue.
+Bravery is all very well, but…
+At them! At them! No hanging back now!
+I love the smell of corpses in the morning. Smells like… victory!
+A small wager, then, just to make it interesting…
+You win some, you lose some - it's all the same to this man.
+My luck will change soon. It must!
+Had her. Had her. Had her. Twice. And her mum…
+Go on, go on, go on, go on. You will. You will, you will, you will.
+Well, hello. Ding. Dong. Aren't you the lucky girl\?
+An honest face is matched by an honest manner.
+Straightforward dealing has given this man an enviable reputation.
+This man's name is a byword for honesty and integrity.
+I am awesome! No, really, you don't understand.
+I'm just a cog in the machine. Nothing more.
+Quite frankly, this man is thicker than a whale omelette.
+Is this important\? Bzzzz! Bzzzz! I haven't made nearly enough honey today! Bzzzz!
+I like your eyes. You have nice eyes. Very nice eyes. Yes.
+I'm a little garum pot, short and stout…
+Nice dress. It'll look better on my bedroom floor.
+Don't be so provincial about these things.
+His wife, the commander's wife, the governor's wife. All nicely broken in, I find…
+Random bar-bar-bar gibberings echo through this man's dreams.
+Smelly, trouser-wearing, excessively-bearded excuses for men. Bastards!
+They do exactly what they say they'll do. I respect that. Don't wash much, mind…
+They poured molten gold down his throat. I was bricking it, I can tell you.
+The only good easterner is a very dead easterner.
+Straight-talking bunch. Lovely women. Even better falooda…
+I've heard they kill all their prisoners. I'd rather die on the battlefield.
+I heard they drink their steeds' blood. It's barbaric.
+They're not so bad really. A bit smelly, a bit murder-y - but good eggs to a man!
+The word 'Roman' alone brings this man out in a cold sweat.
+Romans, with their straight roads, aqueducts, law-making ways, and big bent noses, really annoy this man.
+Terrific race, the Romans... Terrific…
+His innate sense of right and wrong ensures this man will remain loyal to the bitter end, wherever it may be.
+Every minute of every day is devoted to the task in hand. Rest assured, this man will always deliver.
+Look, they're not like us, that's all I'm saying. And I'm really not sure about that eye make-up.
+This man has a 'healthy interest' in cosmopolitan matters.
+There's showing an interest, and then there's boring your colleagues half to death.
+The sorts of things this man finds appealing most others consider the height of poor taste.
+This man's loyalty to crown and state is beyond question.
+Love for Rome is matched only by an understandable distrust of foreigners.
+This man is the model of Roman rectitude and superiority. Mostly superiority.
+Many disapprove of this man's foreign tastes.
+This man delights in un-Roman things. Appalling chap.
+This man'th affected lithp ith howwid. And he callth himthelf a Wohman… Weahlly!
+This fellow has lost his sight and been plunged into a world of darkness.
+This man is ideal if you want the flowers of marriage, but not the fruits.
+This man makes excellent choices in bed partners. And then acts on those choices.
+This man seems entirely likely to father a new generation. On his own.
+This man apparently need only look at a girl for her to fall pregnant!
+This man makes poor choices in his bed partners. That's all it is. Oh, yes.
+This man seems unlikely to father a new generation.
+Children are not a terribly visible product of this man's loins.
+I am not an animal!
+I see you looking. And yes, I work out.
+My mother loved me. I think…
+These days he must content himself with leading from the back.
+These days he must content himself with leading from the back.
+Women and children fear to look upon this man's face.
+Oh I don't know, the ladies think it's rather fetching!
+A man of his word, he says what he means and does exactly what he says.
+The salt of the earth, this man is thought highly of by most people.
+This man's sunny personality and winning ways appeal to everyone he meets.
+Loss of status and prestige has made this man bitter, envious and discontented.
+Some actions leave a lot to be desired.
+Inherently unlikeable, this man is avoided by anyone who's already met him.
+This man is no better than a weasel, an opinion held by all who know him.
+You really shouldn't have killed my uncle.
+Acts of vengeance are properly Roman.
+Ioannina
+Narses
+Maybe God doesn't exist, but if He does then I want His help.
+God helps those who ask least.
+Do you know what true love is\? Sacrifice.
+Tree and stone! I honour the gods, man!
+The gods are here, now, listening, and we do well to remember it.
+On your knees and give thanks to the gods!
+A touch like the sun, coaxing life from the soil.
+A blade like nightfall, swift and unforgiving.
+A back like an oak, braced against the howling wind.
+A grasp like thorns, tearing at the cloaks of the unwary.
+A mind like the ocean, ancient and unfathomable.
+Photius
+Some people would sell their own mother in the name of advancement.
+Those who deal in lies should never be trusted.
+All the good is gone, leaving nothing but betrayal.
+God, nation, parents, kin. Strictly in that order.
+And his word shall carry death eternal to those who stand against the righteous.
+For the demon shall bear a nine-bladed sword. Nine-bladed! Not two or five or seven, but nine!
+This man has more than a healthy interest in matters that don't concern him.
+Words are more effective than stones.
+It's over. We haven't got a chance!
+When I speak, people listen. See.
+It doesn't have to be this way, my brothers!
+Rise brothers! Together we will build a new future!
+A way with words is a powerful skill.
+It's a simple matter of making people understand…
+You say 'massacre'. I say 'trivial skirmish'.
+Are you sure that's entirely wise\?
+I have it on good authority that…
+Would I lie to you, friend\? Would I\?
+This man has been recognised for his pious commitment to the Church.
+This man has been recognised for his pious commitment to the Church.
+The Oaks, they speak through me.
+Through age and experience, this woman has become a leader of her faith.
+The anointed successor of Mani.
+He is the priest of priests and protector of the sacred flames.
+This man has been recognised for his pious commitment to the Church.
+Through age and experience, this man has become a leader of his faith.
+May Tengri watch over you.
+This man has always understood tact and the diplomatic niceties.
+This man has a talent for persuasion and sensible compromise.
+Tact, subtlety and a grasp of foreign tongues make this man a diplomat supreme.
+Nothing gives this man more pleasure than the secrets of others.
+This man has eyes and ears everywhere.
+An all-seeing eye is of use to a wise ruler.
+People get so… possessive about coins. They have my face on them, after all.
+A good ruler always has expenses. That is why there are taxes.
+I like taxes. I like people who pay taxes. Promptly.
+Kindness is a weakness.
+Use the clamps. The tiny clamps. The ones with teeth.
+Your pain, your despair... are like honeyed wine to me.
+Kindness is not weakness. Kindness is strength.
+Any fool can make misery. I choose to be better than a fool.
+I choose to be good to my people. It encourages loyalty.
+Don't lie to me. My eyes WILL fall out if I stop looking up.
+Chewing one's own nails is bad, but the nails of others…
+Bow before me, puny men of Earth, or suffer the attentions of my cloth-rending moths!
+Money does not grow on trees, or swim the seas!
+Why should I open my purse\? What purpose does it serve\?
+I take no joy from spending money. It is always a waste of coin!
+I'm followed. Everywhere. And not by servants.
+There! Behind the tapestry! And there! Everywhere!
+I have enemies. More than you can count. And that's just inside these walls!
+Generosity pleases the gods and me.
+Money is of no earthly use if it sits in my purse.
+Give this fellow the run of the lesser purse, there's a good man!
+Your case is denied. Leave your bribe as you go.
+I have considered this petition. Ask again, and you will need a will.
+YOU! Execute them faster! Stop being nice about it!
+I will watch your world burn.
+Don't eat the biscuits. I think they're off.
+An advance is likely. Mostly towards the latrines…
+At worst\? Some runny bottoms. At best\? They're dead!
+I look for advantage. What man does not\?
+The gold was just resting in my purse.
+Right and wrong: two sides of the same, golden, spendable coin.
+People don't question an honest face.
+This person can blend into the dullest carpets.
+I change my face the way others change their clothes.
+Plots and counterplots intrigue this agent.
+I have letters. The ones you don't want anyone to see…
+I find people are very helpful when there's a knife at their throats…
+Does this water smell a bit… well, you know\? Off\?
+You can put a dead horse in water but you can't make anyone else drink.
+Without water people become surprisingly flexible in their outlook.
+Many men. Travelling fast. Three were limping…
+Every blade of grass out of place tells a story.
+Enemies cannot hide from a piercing gaze.
+Theodosius
+Steel, forged in the fire of a god's fury.
+One eye to look upon the present, one to gaze into the future.
+Death and life are in the power of the tongue: and they that love it shall eat its fruit
+The flesh created by the god may only be fused together by his hand.
+By his words and deeds this man can truly be said to embody all that is good and Roman.
+A well-supplied force can survive the harshest desert.
+Hand-picked by the Emperor, this man leads with consummate skill.
+God is served best by those that preserve his peace.
+Even the shrewdest commander can fail to spot the enemy in his bed.
+Belisarius sees his power diluted.
+Belisarius stands head and shoulders above his fellow generals.
+The true faith will live for as long as I have breath in my body.
+A command shared is a command lost - Belisarius stands alone.
+Her beauty is matched by a keen intelligence. Only a fool would dismiss her opinion out of hand.
+When this man speaks, people listen. A commanding personality, he is the best general in every sense.
+[UNSEEN]
+Sneaky
+Stupid
+Not Quite Right
+Dangerous
+Unhinged
+Clumsy
+In the Family
+Unfortunate Parentage
+Thin-Skulled
+Freed Slave
+Poor Background
+Plutocrat
+Novus Homo
+Gentes Maiores
+Unsure about the Afterlife
+Faithless
+Public Atheist
+Choleric
+Bibulous
+Drunkard
+Slave to the Drink
+Easily Deceived
+Easily Distracted
+Easily Trapped
+Lively
+Energetic
+Vital
+Boring
+Charismatic
+Intelligent
+Irresolute
+Uncompromising
+Procrastinator
+Lazy
+Indolent
+Disgusting
+Filthy
+Lewd Beyond Reason
+Fortunate
+Lucky
+Blessed
+Melancholic
+Phlegmatic
+Sanguine
+Sober
+Abstemious
+Painfully Teetotal
+Unlucky
+Hapless
+Cursed
+Healthy
+Glowing with Health
+Like an Ox
+Weak
+Poorly
+Feeble
+Anastasius
+Antonina
+Belisarius
+Firestarter
+Arsonist
+Pyrophiliac
+Pitiless
+Heartless
+Dead Inside
+Daunting
+Intimidating
+Terrifying
+Insurgent
+Guerrilla
+Terror in the Dark
+Doctore
+Drillmaster
+Martinet
+Dirty Blade
+Blood-Soaked
+Gore-Drenched
+Chief Overseer
+Queen of the Tanukhids
+Brace I
+Brace II
+Brace III
+Brace IV
+Brace V
+Fast Charge I
+Fast Charge II
+Fast Charge III
+Fast Charge IV
+Fast Charge V
+Fear I
+Fear II
+Fear III
+Fear IV
+Fear V
+Inspire I
+Inspire II
+Inspire III
+Inspire IV
+Inspire V
+Power to the Oars I
+Power to the Oars II
+Power to the Oars III
+Power to the Oars IV
+Power to the Oars V
+Presence I
+Presence II
+Presence III
+Presence IV
+Presence V
+Raise Banner I
+Raise Banner II
+Raise Banner III
+Raise Banner IV
+Raise Banner V
+Rally I
+Rally II
+Rally III
+Rally IV
+Rally V
+Reconnaissance I
+Reconnaissance II
+Reconnaissance III
+Reconnaissance IV
+Reconnaissance V
+Second Wind I
+Second Wind II
+Second Wind III
+Second Wind IV
+Second Wind V
+War Cry I
+War Cry II
+War Cry III
+War Cry IV
+War Cry V
+Inefficient Administrator
+Incompetent Administrator
+Clueless Administrator
+Administrator
+Good Administrator
+Expert Administrator
+Builder
+Engineer
+Architect
+Rules are Rules
+Strict
+Authoritarian
+Farmer
+Estate Owner
+Land Magnate
+Son of a Governor
+Good Penmanship
+Administrative Expert
+Military Secretary
+Digger
+Mining Engineer
+Mining Genius
+Dislikes War
+Conscientious Objector
+Pacifist
+Trader
+Man of Business
+Master of Trade
+Approves of War
+Warmonger
+Genocidal Maniac
+Political Animal
+Politician
+Politician's Politician
+Lax
+Poor Disciplinarian
+Killing with Kindness
+Disciplinarian
+Taskmaster
+Oppressor
+Good in a Fight
+Excellent Fighter
+Master of Combat
+A Bit of Claret
+Bloody
+Take No Prisoners!
+Looter
+Butcher
+Destroyer
+Military Heritage
+Loves the Darkness
+Night Owl
+Noctophile
+Fear of the Dark
+Night Terrors
+Noctophobe
+Understands War
+Strategist
+Master Strategist
+Survivor
+Nigh Invulnerable
+Impossible to Kill
+Understands Battle
+Tactician
+Master Tactician
+Rotten Luck
+Obvious
+Incompetent Ambusher
+Ambusher
+Skilled Ambusher
+Superior Ambusher
+Indecisive Attacker
+Poor Attacker
+Incompetent Attacker
+Confident Attacker
+Good Attacker
+Superior Attacker
+Incompetent Besieger
+Confounded by Siegecraft
+Afraid of Walls
+Siege Expert
+To the Walls!
+Into the Breach!
+Hesitant Defender
+Poor Defender
+Incompetent Defender
+Confident Defender
+Good Defender
+Superior Defender
+Incompetent Siege Defender
+Liability
+Cowers Behind Walls
+Gate Keeper
+Like the Pillar
+None Shall Pass!
+Shieldbiter
+Axe-Friend
+Berserker
+Hydrophobe
+Poor Admiral
+All At Sea
+Sea Legs
+Good Sea Captain
+Superior Admiral
+Innefective Port Defender
+Incompetent Port Defender
+Afraid to Leave the Docks
+Blockade Runner
+Port Defender
+Blockade Destroyer
+Questionable Blockader
+Poor Blockader
+Terrible Blockader
+Effective Blockader
+Blockade Master
+Impregnable Blockader
+Indifferent Naval Defender
+Poor Sea Defender
+Incompetent Naval Defender
+Good Naval Defender
+Excellent Sea Defender
+Superior Naval Defender
+Ineffective Naval Escort
+Incompetent Naval Escort
+What Convoy\?
+Effective Naval Escort
+Superior Convoy
+Master Convoy
+Curious
+Proud
+Anything Goes
+Heartbroken
+Bereaved
+All Is Lost
+Stranger to Fear
+Famously Brave
+Utterly Fearless
+Fearful
+Cowardly
+Lily-Livered
+Untrustworthy
+Dishonest
+Great Deceiver
+Sweary
+Foul-Mouthed
+Disgusting
+Keen
+Taste for Battle
+Mad for It!
+Fond of Gambling
+Inveterate Gambler
+Ruled by Luck
+Amorous
+Insatiable
+Utterly Insatiable
+Trustworthy
+Honest
+Upright
+Arrogant
+Humble
+Stupid
+Not Quite Right
+Dangerous
+Unhinged
+Casually Adulterous
+Blatant Adulterer
+Run For Your Wife!
+Fears Savage Barbarians
+Hates Smelly Barbarians
+Likes Barbarians
+Fears Brutal Easterners
+Hates Easterners
+Likes Easterners
+Fears Marauding Nomads
+Despises Horse-Loving Nomads
+Likes Nomads
+Fears Heartless Romans
+Despises Treacherous Romans
+Likes Romans
+Loyal
+Devoted
+Jingoist
+Foreign Interests
+Foreign Obsessions
+Foreign Vulgarity
+Loyal
+Patriot
+True Roman
+Foreign Interests
+Foreign Obsessions
+Foreign Vulgarity
+Blind
+Eunuch
+Fertile
+Fruitful
+Prolific
+Flaccid
+Infertile
+Barren
+Misshapen
+Good Looking
+Homely
+Maimed Arm
+Maimed Leg
+Disfiguring Scar
+Distinguishing Scar
+Favoured
+Popular
+Beloved by All
+Spurned
+Out of Favour
+Unpopular
+Despised by All
+Blood Feud
+Vendetta
+Ioannina
+Narses
+Respectful
+Religious
+Pious
+Respectful
+Believer
+True Believer
+The Ollam Ri’s Touch
+The Ollam Ri’s Justice
+The Ollam Ri’s Resolve
+The Ollam Ri’s  Rapacity
+The Ollam Ri’s Brilliance
+Photius
+Venal
+Treacherous
+Betrayer
+Pious
+Righteous
+Fanatical
+Meddler
+Provocateur
+Doomsayer
+Man of the People
+Ringleader
+Firebrand
+Teller of Tales
+Communicator
+Propagandist
+Doubt & Dissent
+Whispers in the Dark
+Subverter
+Bishop
+Bishop
+High Druid
+High Priestess
+Leader
+Mobedan Mobed
+Bishop
+High Priest
+High Priest
+Smooth Talker
+Diplomatic Tone
+Superb Negotiator
+Clandestine
+Spymaster
+Master of Secrets
+Taxman
+Assessor
+Cruelly Efficient
+Harsh
+Torturer
+A Byword for Cruelty
+Kind
+Considerate Ruler
+Beneficent
+Somewhat Strange
+A Disturbing Nature
+Prince of the Moon People
+Careful with Cash
+Mean
+Miser
+Worried
+Disturbed
+Fearful
+Giving
+Overly Generous
+Foolish with Money
+Unjust
+Justice for None
+Tyrant
+Warrior King
+False Supplier
+False Quartermaster
+Accredited Supply Agent
+Corrupt
+Embezzler
+Immoral
+Honest Face
+Unremarkable Face
+Faceless
+Investigator
+Blackmailer
+Cutthroat
+Purveyor of Poisons
+Ingenious Poisoner
+Master of Poisons
+Scout
+Expert Scout
+Eyes of the Hawk
+Theodosius
+Godan's Blade
+Godan's Eye
+Godan's Tongue
+Godan's Touch
+Last of the Romans
+Well-Watered
+Hand-Picked
+Defender of Harmony
+Cuckold
+Sidelined
+Influential
+Fidei Defensor
+Supreme Commander
+Influential
+Influential
+The Pope
+
