@@ -23,7 +23,7 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
-character_skill_node_sets (/82)
+character_skill_node_sets (81/81)
 character_skills (1130/1130)
 character_trait_levels (913/913)
 chat_shortcuts (12/12)
