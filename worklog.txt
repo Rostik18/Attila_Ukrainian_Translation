@@ -21,8 +21,8 @@ building_chains (633/633)
 
 building_culture_variants (1538/1538)
 
+campaign_unit_stat_bonuses (43/43)
 campaigns (8/8)
-
 capture_point_types (36/36)
 cdir_events_dilemma_choice_details (1020/1020)
 
