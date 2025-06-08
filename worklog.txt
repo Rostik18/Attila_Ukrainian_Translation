@@ -23,6 +23,9 @@ building_culture_variants (1538/1538)
 
 campaigns (8/8)
 
+capture_point_types (36/36)
+cdir_events_dilemma_choice_details (1020/1020)
+
 character_skill_node_sets (81/81)
 character_skills (1130/1130)
 character_trait_levels (913/913)
