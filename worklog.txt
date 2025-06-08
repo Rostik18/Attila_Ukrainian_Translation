@@ -21,6 +21,8 @@ building_chains (633/633)
 
 building_culture_variants (1538/1538)
 
+campaign_statistics_strings (113/113)
+
 campaign_subject_strings (80/80)
 campaign_unit_stat_bonuses (43/43)
 campaigns (8/8)
