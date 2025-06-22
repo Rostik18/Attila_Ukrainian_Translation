@@ -2,7 +2,7 @@
 
 //ProcessFile();
 
-FindInAllFiles("іс", ["regions", "start_pos_settlements"]);
+FindInAllFiles("шанс захисту від стрілків".ToLower(), []);
 
 
 static void FindInAllFiles(string wordToFind, string[] filesToCheck)
@@ -17,7 +17,7 @@ static void FindInAllFiles(string wordToFind, string[] filesToCheck)
 
     foreach (var file in filenames)
     {
-        var fileLines = File.ReadAllLines(file);
+        var fileLines = File.ReadAllLines(file).Select(x=>x.ToLower());
 
         var susLines = fileLines.Where(x => x.Contains(wordToFind)).ToList();
 
