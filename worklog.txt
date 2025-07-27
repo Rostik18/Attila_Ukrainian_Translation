@@ -21,6 +21,8 @@ building_chains (633/633)
 
 building_culture_variants (1538/1538)
 
+campaign_map_playable_areas (3/3)
+
 campaign_map_tooltip_texts (155/155)
 
 campaign_payload_ui_details (227/227)
