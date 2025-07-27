@@ -21,6 +21,7 @@ building_chains (633/633)
 
 building_culture_variants (1538/1538)
 
+campaign_localised_strings (536/536)
 campaign_map_attritions (51/51)
 campaign_map_playable_areas (3/3)
 
